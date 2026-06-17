@@ -27,6 +27,7 @@ Building a supervised machine learning pipeline to predict the **10-year risk of
 ![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-374151?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4b5563?style=for-the-badge)
 ![Heatmap](https://img.shields.io/badge/Heatmap%20Visualization-6d28d9?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-0f766e?style=for-the-badge)
 
 ---
 
