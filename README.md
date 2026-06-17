@@ -22,6 +22,7 @@ Building a supervised machine learning pipeline to predict the **10-year risk of
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-111827?style=for-the-badge)
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-5b2c83?style=for-the-badge)
 ![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-374151?style=for-the-badge)
