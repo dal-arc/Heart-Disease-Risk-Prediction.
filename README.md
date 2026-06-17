@@ -9,12 +9,11 @@ Building a supervised machine learning pipeline to predict the **10-year risk of
 ## Objectives
 
 - Build a supervised machine learning pipeline for CHD risk prediction.
-- Handle missing values, outliers, and imbalanced classes.
-- Use visual data analysis to study feature relationships before and after preprocessing.
+- Applied feature engineering (FE) and data preprocessing, including missing value handling, outlier treatment, scaling, and correlation heatmap analysis to assess feature relationships before and after preprocessing.
 - Apply **PCA** for dimensionality reduction.
 - Compare multiple supervised machine learning models.
-- Evaluate model performance using medically meaningful classification metrics.
 - Improving hyperparameters.
+- Evaluate model performance using medically meaningful classification metrics.
 ---
 
 ## Tools & Libraries
