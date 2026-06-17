@@ -1,5 +1,3 @@
-# Heart-Disease-Risk-Prediction.
-
 # Predictive Modeling for Coronary Heart Disease 🫀
 
 ## Project Overview
