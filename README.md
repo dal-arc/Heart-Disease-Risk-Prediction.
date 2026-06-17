@@ -5,12 +5,11 @@ Built machine learning risk prediction models to estimate an individual’s 10-y
 
 ## Project Overview
 
-The project demonstrated the development of a complete supervised machine learning pipeline for predicting 10-year CHD risk.
 Building a supervised machine learning pipeline to predict the **10-year risk of Coronary Heart Disease (CHD)** using the **Framingham Heart Study dataset**.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Build a supervised machine learning pipeline for CHD risk prediction.
 - Handle missing values, outliers, and imbalanced classes.
@@ -18,11 +17,10 @@ Building a supervised machine learning pipeline to predict the **10-year risk of
 - Apply **PCA** for dimensionality reduction.
 - Compare multiple supervised machine learning models.
 - Evaluate model performance using medically meaningful classification metrics.
-- SMOTE improved minority class representation in the training data.
 - Improving hyperparameters.
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
@@ -31,7 +29,7 @@ Building a supervised machine learning pipeline to predict the **10-year risk of
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 - Precision
 - Recall
